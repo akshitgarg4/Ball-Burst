@@ -10,6 +10,7 @@ Ball Burst is a game made using Turtle Programming in Python.
 2 -> Run the Ball Burst.py file.
 
 <img src="Ballburst.png">
+
 # Rules: -
 
 1 -> You can use the left/right arrow keys to move the pointer.
